@@ -1,0 +1,43 @@
+.cr-sidebar__content .navbar{
+
+    justify-content:center;
+    background-color:rgb(52,191,210);
+    height: 72px;
+        
+}
+
+.cr-sidebar__content .navbar span{
+    font-size:24px;
+}
+
+
+.card .card-header{
+    background-color: rgb(52,191,210);
+    color:white;
+    padding-top:15px;
+    padding-bottom: 15px;
+    font-size:22px;
+    margin-bottom:20px;
+}
+
+.loginform_text{
+    font-size:28px;
+}
+
+.card .card-header>div{
+    float:right;
+}
+
+.card .card-header .btn:focus{
+    box-shadow: none;
+}
+
+
+
+.button_login{
+    
+}
+
+.DoctorListPage .card-body .row .col >div header,.PatientListPage .card-body .row .col >div header{
+    display:none;
+}
